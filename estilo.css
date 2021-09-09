@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    font-family: 'Uchen', serif;
+}
+
+.cor-de-fundo {
+    background-color: #f8f9fa !important;
+}
+
+.menu-topo {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 25px;
+    position: relative;
+    height: 60px;
+}
+
+.texto-menu-topo {
+    font-size: 24px;
+}
+
+.botao-menu {
+    position: relative;
+    left: 67%;
+    top: 0%;
+}
+
+.botao-azul {
+    background-color: blue;
+    border-radius: 5px;
+    border-color: blue;
+    color: white;
+    box-shadow: 2px 2px 2px grey;
+    width: 90px;
+    height: 40px;
+}
+
+.primeira-div {
+    background-image: url(https://nova-escola-producao.s3.amazonaws.com/EBUupJuWp5ttKkmKf5PZXN2rdxsMJ376JtzZaTE7MQRdbWVNrt5CsVgFGaDK/gettyimages-663622960.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    padding-top: 170px;
+}
+
+.texto-primeira-div {
+    font-size: 25px;
+    color: white;
+}
+
+.form-primeira-div {
+    margin-top: 0px;
+}
+
+.input-email {
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.segunda-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 460px;
+    font-size: 18px;
+}
+
+.segunda-div span {
+    font-size: 28px !important;
+}
+
+.segunda-div-box {
+    text-align: center;
+    padding-top: 120px;
+    margin-right: 60px;
+}
+
+.segunda-div-box i  {
+    font-size: 68px;
+    color: #00008B;
+    padding-bottom: 20px;
+}
+
+.terceira-div {
+    display: flex;
+    flex-direction: row;
+    height: 460px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.terceira-div span {
+    font-size: 25px !important;
+    font-weight: bold;
+}
+
+.terceira-div p {
+    padding: 120px;
+}
+
+.primeira-imagem {
+    background-image: url(https://www.qinetwork.com.br/wp-content/uploads/2016/11/49410-como-a-tecnologia-aumenta-a-produtividade-no-trabalho5.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.segunda-imagem {
+    background-image: url(https://www.meioemensagem.com.br/wp-content/uploads/2020/04/cerebro-tecnologia-Cred-MF3d-iStock-1160995648.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.terceira-imagem {
+    background-image: url(https://s3.amazonaws.com/uppersoft/site/prod/uploads/2020/10/27230011/blog-tec-dia-a-dia.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.quarta-div {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    font-size: 18px;
+}
+
+.quarta-div h2 {
+    font-size: 25px;
+    padding-top: 90px;
+}
+
+.quarta-div span {
+    font-size: 22px;
+}
+
+.avatar {
+    width: 192px;
+    height: 192px;
+    border-radius: 100%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.quinta-div {
+    background-image: url(https://nova-escola-producao.s3.amazonaws.com/EBUupJuWp5ttKkmKf5PZXN2rdxsMJ376JtzZaTE7MQRdbWVNrt5CsVgFGaDK/gettyimages-663622960.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 170px;
+    margin-top: 120px;
+}
+
+.texto-quinta-div {
+    font-size: 24px;
+    color: white;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    text-align: center;
+    padding: 100px;
+    font-size: 17px;
+}
+
+.fa-instagram-square {
+    font-size: 40px;
+    color: purple;
+    padding-right: 10px;
+}
+
+.fa-facebook-square {
+    font-size: 40px;
+    color: blue;
+    padding-right: 10px;
+}
+
+.fa-discord {
+    font-size: 40px;
+    color: #0000cc;
+}

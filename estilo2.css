@@ -1,0 +1,187 @@
+body {
+    margin: o;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.cor-de-fundo {
+    background-color: #f8f9fa !important;
+}
+
+.menu-topo {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 30px;
+    position: relative;
+    height: 60px;
+}
+
+.menu-topo span {
+    font-size: 24px;
+}
+
+.botao-menu {
+    position: relative;
+    left: 67%;
+    top: 0%;
+}
+
+.botao-azul {
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border-color: blue;
+    width: 50px;
+    height: 30px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.primeira-div {
+    background-image: url(https://nova-escola-producao.s3.amazonaws.com/EBUupJuWp5ttKkmKf5PZXN2rdxsMJ376JtzZaTE7MQRdbWVNrt5CsVgFGaDK/gettyimages-663622960.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+
+.texto-primeira-div {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+
+.form-primeira-div {
+    margin-top: 0px;
+}
+
+.input-email {
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.segunda-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 460px;
+    font-size: 18px;
+}
+
+.segunda-div span {
+    font-size: 28px !important;
+}
+
+.segunda-div-box {
+    text-align: center;
+    padding-top: 120px;
+    margin-right: 60px;
+}
+
+.fa-laptop {
+    font-size: 68px;
+    color: #BDB76B;
+    padding-bottom: 20px;
+}
+
+.terceira-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+}
+
+.terceira-div span {
+    font-size: 25px !important;
+    font-weight: bold;
+}
+
+.terceira-div p {
+    padding: 120px;
+}
+
+.primeira-imagem {
+    background-image: url(https://blog.ipog.edu.br/wp-content/uploads/2018/06/empreender-no-mercado-de-tecnologia-920x368.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.segunda-imagem {
+    background-image: url(https://www.grupoalliance.com.br/wp-content/uploads/2018/08/tecnologia-e-marketing-por-que-aproximar-esses-setores-da-empresa.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.terceira-imagem {
+    background-image: url(https://s3.amazonaws.com/uppersoft/site/prod/uploads/2020/10/27230011/blog-tec-dia-a-dia.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.quarta-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    font-size: 18px;
+}
+
+.quarta-div h2 {
+    font-size: 25px;
+    padding-top: 90px;
+}
+
+.quarta-div span {
+    font-size: 22px;
+}
+
+.avatar {
+    width: 192px;
+    height: 192px;
+    border-radius: 100%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.quinta-div {
+    background-image: url(https://nova-escola-producao.s3.amazonaws.com/EBUupJuWp5ttKkmKf5PZXN2rdxsMJ376JtzZaTE7MQRdbWVNrt5CsVgFGaDK/gettyimages-663622960.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 170px;
+}
+
+.texto-quinta-div {
+    font-size: 24px;
+    color: white;
+}
+
+.rodape{
+    display: flex;
+    flex-direction: row;
+    height: 180px;
+}
+
+.rodape .w-50 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.rodape .w-50 i {
+   font-size: 27px !important;
+   color: black;
+   margin-right: 20px;
+}
+
+.rodape .w-50 i:hover {
+    color: #0d6efd;
+}

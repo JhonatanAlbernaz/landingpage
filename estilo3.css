@@ -1,0 +1,529 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.cor-de-fundo {
+    background-color: #f8f9fa !important;
+}
+
+.cor-branca {
+    background-color: white !important;
+    height: 35%;
+    width: 105%;
+}
+
+.divisor {
+    width: 100%;
+    height: 1px;
+    color: black;
+}
+
+.menu-principal {
+    width: 100%;
+    height: 12%;
+    background-color: #262626;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.link-menu {
+    color: #F0FFFF !important;
+    text-decoration: none !important;
+}
+
+.link-menu:hover {
+    color: #FFD700 !important;
+}
+
+.texto-esquerda {
+    padding-left: 450px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.fonte-size-15 {
+    font-size: 15px;
+}
+
+.texto-menu {
+   padding-top: 30px;
+}
+
+.padding-left-30 {
+    padding-left: 30px;
+}
+
+.texto {
+    font-size: 21px;
+    padding-left: 115px;
+    color: #FFD700 !important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.primeira-div {
+    background-image: url(https://www.samucawebdesign.com.br/admin/img/fotos/152787415599desenvolvimento-de-sites-profissionais-samuca-webdesign-jpg_t.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 110%;
+    height: 650px;
+    text-align: center;
+    padding-top: 170px;
+}
+
+.primeira-div span {
+    font-size: 33px;
+    color: white;
+    font-family: 'Merriweather', serif !important;
+}
+
+.espacamento {
+    padding-top: 15px;
+}
+
+.texto-primeira-div {
+    font-size: 70px !important;
+    color: white;
+}
+
+.botao-azul {
+    background-color: #FFD700;
+    border-radius: 10px;
+    color: white;
+    border-color: #FFD700;
+    width: 234px;
+    height: 74px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.botao-menu {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Merriweather', serif !important;
+    font-weight: bold;
+}
+
+.segunda-div {
+    width: 100%;
+    height: 400px;
+    padding-top: 150px;
+}
+
+.topo {
+    padding-top: 80px;
+    padding: 160px
+}
+
+.primeiro-box {
+    padding-top: 80px;
+    padding: 135px;
+}
+
+.topo-box {
+    padding-top: 0px;
+    padding: 135px;
+}
+
+.subtitulo {
+    font-size: 18px;
+    padding-left: 530px;
+    color: #696969;
+    font-weight: bold;
+}
+
+.texto-segunda-div {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto-div-box {
+    font-size: 23px;
+    padding-left: 20%;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.subtitulo-div-box {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: gray;
+    font-weight: bold;
+}
+
+.icones {
+    border-radius: 100%;
+    background-color: #FFD700;
+    color: white;
+    font-size: 50px;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.terceira-div {
+    width: 100%;
+    height: 1300px;
+    padding-top: 150px;
+}
+
+.primeira-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+}
+
+.segunda-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+    left: 2%;
+}
+
+.terceira-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+    left: 4%;
+}
+
+.quarta-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+}
+
+.quinta-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+    left: 2%;
+}
+.sexta-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/portfolio/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+    left: 4%;
+}
+.box {
+    padding-top: 230px;
+}
+
+.texto-div {
+    font-size: 24px;
+    padding-left: 35%;
+    font-weight: bold;
+}
+
+.texto-box {
+    font-size: 24px;
+    padding-left: 32%;
+    font-weight: bold;
+}
+
+.segundo-texto {
+    font-size: 18px;
+    padding-left: 36%;
+    font-weight: bold;
+    color: gray;
+}
+
+.subtitulo-box {
+    font-size: 18px;
+    padding-left: 31%;
+    font-weight: bold;
+    color: gray;
+}
+
+.segundo-box {
+    font-size: 18px;
+    padding-left: 32%;
+    font-weight: bold;
+    color: gray;
+}
+
+.primeiro-div-box {
+    font-size: 18px;
+    padding-left: 39%;
+    font-weight: bold;
+    color: gray;
+}
+
+.terceira-div row {
+    background-color: white !important;
+}
+
+.quarta-div {
+    width: 100%;
+    height: 400px;
+    padding-top: 150px;
+}
+
+.texto-quarta-div {
+    font-size: 24px;
+    padding-left: 35%;
+    font-weight: bold;
+}
+
+.segundo-texto-div {
+    font-size: 18px;
+    padding-left: 36%;
+    font-weight: bold;
+    color: gray;
+}
+
+.texto2-quarta-div {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.segundo2-texto-div {
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+}
+
+.box-quarta-div {
+    width: 59%;
+    height: 40%;
+    margin-left: 30%;
+    text-align: right;
+}
+
+.segundo-box-div {
+    width: 59%;
+    height: 40%;
+    margin-left: 30%;
+    text-align: left;
+}
+
+.box2-quarta-div {
+    width: 0px;
+    height: 40%;
+    margin-left: 0%;
+    text-align: left;
+}
+
+.imagem1-quarta-div {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/about/1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 24%;
+    border-radius: 100%;
+    border: 5px solid #d9d9d9;
+    margin-top: 35%;
+    padding: 9%;
+}
+
+.imagem2-quarta-div {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/about/2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 24%;
+    border-radius: 100%;
+    border: 5px solid #d9d9d9;
+    margin-top: 35%;
+    margin-left: 105%;
+    padding: 10%;
+}
+
+.imagem3-quarta-div {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/about/3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 24%;
+    border-radius: 100%;
+    border: 5px solid #d9d9d9;
+    margin-top: 35%;
+    padding: 10%;
+}
+
+.imagem4-quarta-div {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/about/4.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 24%;
+    border-radius: 100%;
+    border: 5px solid #d9d9d9;
+    margin-top: 35%;
+    margin-left: 105%;
+    padding: 10%;
+}
+
+.espacamento-div {
+    margin-right: 90%;
+}
+
+.cor-fundo {
+    background-color: #FFD700;
+    color: white !important;
+    margin-left: 51%;
+    width: 12%;
+    border-radius: 100%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 17%;
+    border: 5px solid #d9d9d9;
+    font-family: 'Merriweather', serif !important;
+    margin-bottom: 90px;
+}
+
+.quinta-div {
+    width: 100%;
+    height: 1000px;
+    background-color: #f8f9fa !important;
+    padding-top: 150px;
+}
+
+.quinta-div-topo {
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-left: 8%;
+}
+
+.quinta-div-imagem {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 14%;
+    padding-bottom: 15%;
+}
+
+.quinta-div-imagem2 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 14%;
+    padding-bottom: 15%;
+}
+
+.quinta-div-imagem3 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/3.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 14%;
+    padding-bottom: 15%;
+}
+
+.texto-topo {
+    margin-top: 60%;
+    position: absolute;
+}
+
+.texto-quinta-div {
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 90px;
+}
+
+.subtitulo-quinta-div {
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+    padding-left: 107px;
+}
+
+.subtitulo-terceiro-box {
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+    padding-left: 90px;
+}
+
+.icones-quinta-div {
+    font-size: 20px;
+    color: white !important;
+    cursor: pointer;
+}
+
+.icones-quinta-div:hover {
+    background-color: none !important;
+}
+
+.icone-div {
+    padding-left: 5%;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.icones-div-rodape {
+    background-color: #212529 !important;
+    padding: 2%;
+    margin-right: 15px;
+}
+
+.icones-rodape {
+    background-color: #212529 !important;
+    padding: 2%;
+    margin-right: 15px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+}
+
+.texto-centro-div {
+    color: gray;
+    padding-bottom: 10%;
+    background-color: #f8f9fa !important;
+}
+
+.sexta-div {
+    background-image: url(https://www.samucawebdesign.com.br/admin/img/fotos/152787415599desenvolvimento-de-sites-profissionais-samuca-webdesign-jpg_t.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 720px;
+    text-align: center;
+    padding-top: 170px;
+}
+
+.texto-sexta-div {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.subtitulo-sexta-div {
+    font-size: 18px;
+    color: gray !important;
+    font-weight: bold;
+}
+
+.input-email {
+    width: 500px;
+    height: 60px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding-left: 20px;
+    color: gray;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.input2-email {
+    width: 500px;
+    height: 212px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding-left: 20px;
+    color: gray;
+    font-family: 'PT Sans', sans-serif;
+}
+.margin-topo {
+    margin-top: 50px;
+}
+
+.rodape {
+    height: 140px;
+    padding-top: 6%;
+    margin-top: 3%;
+}
+
+.texto-rodape {
+    text-align: center;
+}
